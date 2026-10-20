@@ -1,0 +1,17 @@
+{
+  "frontendFolder": "C:/Users/akhma/Downloads/crud-vaadin/crud-vaadin/./src/main/frontend",
+  "themeFolder": "themes",
+  "themeResourceFolder": "C:/Users/akhma/Downloads/crud-vaadin/crud-vaadin/./src/main/frontend/generated/jar-resources",
+  "staticOutput": "C:/Users/akhma/Downloads/crud-vaadin/crud-vaadin/target/classes/META-INF/VAADIN/webapp/VAADIN/static",
+  "generatedFolder": "generated",
+  "statsOutput": "C:\\Users\\akhma\\Downloads\\crud-vaadin\\crud-vaadin\\target\\classes\\META-INF\\VAADIN\\config",
+  "frontendBundleOutput": "C:\\Users\\akhma\\Downloads\\crud-vaadin\\crud-vaadin\\target\\classes\\META-INF\\VAADIN\\webapp",
+  "devBundleOutput": "C:/Users/akhma/Downloads/crud-vaadin/crud-vaadin/target/dev-bundle/webapp",
+  "devBundleStatsOutput": "C:/Users/akhma/Downloads/crud-vaadin/crud-vaadin/target/dev-bundle/config",
+  "jarResourcesFolder": "C:/Users/akhma/Downloads/crud-vaadin/crud-vaadin/./src/main/frontend/generated/jar-resources",
+  "themeName": "",
+  "clientServiceWorkerSource": "C:\\Users\\akhma\\Downloads\\crud-vaadin\\crud-vaadin\\target\\sw.ts",
+  "pwaEnabled": false,
+  "offlineEnabled": false,
+  "offlinePath": "'offline.html'"
+}
